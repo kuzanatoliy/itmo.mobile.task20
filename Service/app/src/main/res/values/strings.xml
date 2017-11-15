@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Service</string>
+
+    <string name="urls">Enter URLs</string>
+    <string name="getBtn">GET WEB PAGES</string>
+    <string name="action_view">View pages</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
